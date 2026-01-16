@@ -1,0 +1,5 @@
+{
+  "name": "Name and Address Formatter",
+  "description": "A tool to format uppercase text into title case with correct Portuguese accentuation using Gemini. Ideal for standardizing names, job titles, and addresses.",
+  "requestFramePermissions": []
+}
